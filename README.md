@@ -38,6 +38,25 @@ Semana del 14 al 18 de agosto.
 4. Establecer rutas de los componentes (Paola y Berta).
 5. Leer más sobre el tema elegido (todas).
 
+// Resultados
+1. Nabvar and footer
+2. Correo a organización
+3. Definida la paleta de colores.
+
+Semana del 25 al 29 de agosto.
+1. Terminar el diseño de landing page.
+    - Solicitar ayuda con algún diseñador (a) de la organización
+    - Crear secciones de la página principal.
+2. Fecha límite para esperar respuesta 27 de agosto y sino plan B.
+3. Leer más sobre el tema/visualización de datos/D3.
+4. Presentar qué tipo de gráficos queremos usar
+5. Definir cómo vamos a presentar la información.
+
+Semana del 28 de agosto al 1 de septiembre.
+1. Definir cómo vamos aplicar lo aprendido.
+2. Estilizar la primera sección.
+3. Conseguir imágenes/fotos/ilustraciones para la página.  
+
         
 
 
